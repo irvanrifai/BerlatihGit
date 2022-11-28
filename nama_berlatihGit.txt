@@ -1,2 +1,3 @@
 Nama : Irvan Rifa'i
 Stack : Backend
+Deskripsi : Learn how to think
