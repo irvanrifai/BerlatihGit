@@ -1,3 +1,7 @@
 Nama : Irvan Rifa'i
 Stack : Backend
+<<<<<<< HEAD
 Hobby : Baca buku
+=======
+Deskripsi : Learn how to think
+>>>>>>> description
